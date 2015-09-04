@@ -24,10 +24,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.Yulfiostv"
-       name="[B][COLOR cornflowerblue]  YULFIOSTV [/COLOR][COLOR lime] LIST 2015[/COLOR][/B]"
-       version="1.0."
-       provider-name="[COLOR cornflowerblue]YULFIOS[/COLOR][COLOR lime]TV[/COLOR]">
+<addon id="plugin.video.Yulfiostv" name="YULFIOSTV LIST 2015" version="1.0" provider-name="YULFIOSTV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -54,7 +51,7 @@ https://yulfiostv.wordpress.com </description>
   </extension>
 </addon>
 
-<addon id="repository.wolf-team" name="Wolf-Team official Repo" version="1.0.0" provider-name="WolfTeam">
+<addon id="repository.wolf-team" name="Wolf-Team official Repo" version="1.0" provider-name="WolfTeam">
 	<extension point="xbmc.addon.repository" name="Wolf-Team official Repo">
 		<info compressed="false">https://raw.github.com/EquipoWolf/wolfteam/master/addons.xml</info>
 		<checksum>https://raw.github.com/EquipoWolf/wolfteam/master/addons.xml.md5</checksum>

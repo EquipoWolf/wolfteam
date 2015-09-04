@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.Yulfiostv"
-       name="[B][COLOR cornflowerblue]  YULFIOSTV [/COLOR][COLOR lime] LIST 2015[/COLOR][/B]"
-       version="1.0."
-       provider-name="[COLOR cornflowerblue]YULFIOS[/COLOR][COLOR lime]TV[/COLOR]">
+<addon id="plugin.video.Yulfiostv" name="YULFIOSTV LIST 2015" version="1.0" provider-name="YULFIOSTV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
