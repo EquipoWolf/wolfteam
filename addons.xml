@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.Wolf-IPTV" name="Wolf-IPTV" version="2.1" provider-name="Derian Black">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>[COLOR red]Wolf[/COLOR][COLOR blue]IPTV[/COLOR]basado en LivetreamsPro by Shani  </summary>
+    <description lang="en">[COLOR cyan][B]Wolf-IPTV, llevando entretenimiento a tu hogar[/B][/COLOR]</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.Yulfiostv"
+       name="[B][COLOR cornflowerblue]  YULFIOSTV [/COLOR][COLOR lime] LIST 2015[/COLOR][/B]"
+       version="1.0."
+       provider-name="[COLOR cornflowerblue]YULFIOS[/COLOR][COLOR lime]TV[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary> Yulfiostv entretenimiento y diversion sin Fin!!!</summary>
+    <description>YulfiosTv  el addon Latino para asegurar tu diversión, aquí encontraras lo que mejor en: deportes, noticias, telenovelas, series, películas, música y mas contenidos en espanol ,ingles y otros.
+Conócenos te encantara, si necesitas tutoriales para esta gama de entretenimiento visita nuestra página: https://www.facebook.com/groups/yulfiostv
+https://yulfiostv.wordpress.com </description>
+
+   <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.wolf-team" name="Wolf-Team official Repo" version="1.0" provider-name="WolfTeam">
+	<extension point="xbmc.addon.repository" name="Wolf-Team official Repo">
+		<info compressed="false">https://raw.github.com/EquipoWolf/wolfteam/master/addons.xml</info>
+		<checksum>https://raw.github.com/EquipoWolf/wolfteam/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/EquipoWolf/wolfteam/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Wolf-Team official Repo</summary>
+   		<description lang="en">Instala los Addons de Wolf.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
