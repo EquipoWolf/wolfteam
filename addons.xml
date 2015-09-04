@@ -24,9 +24,9 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.yulfiostv"
+<addon id="plugin.video.Yulfiostv"
        name="[B][COLOR cornflowerblue]  YULFIOSTV [/COLOR][COLOR lime] LIST 2015[/COLOR][/B]"
-       version="1.1"
+       version="1.2"
        provider-name="[COLOR cornflowerblue]YULFIOS[/COLOR][COLOR lime]TV[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
