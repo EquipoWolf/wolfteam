@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.Yulfiostv"
-       name="[B][COLOR cornflowerblue]  YULFIOSTV [/COLOR][COLOR lime] LIST 2015[/COLOR][/B]"
-       version="1.2"
+       name="[B][COLOR cornflowerblue]  YULFIOS[/COLOR][COLOR lime]TV[/COLOR]1.3[/B]"
+       version="1.3"
        provider-name="[COLOR cornflowerblue]YULFIOS[/COLOR][COLOR lime]TV[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -28,3 +28,5 @@ https://yulfiostv.wordpress.com </description>
    <platform>all</platform>
   </extension>
 </addon>
+
+
