@@ -76,7 +76,7 @@
 
 <addon id="plugin.video.Yulfiostv"
        name="[B][COLOR cornflowerblue]  YULFIOS[/COLOR][COLOR lime]TV[/COLOR]1.3[/B]”
-       version=“1.3”
+       version="1.3"
        provider-name="[COLOR cornflowerblue]YULFIOS[/COLOR][COLOR lime]TV[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
