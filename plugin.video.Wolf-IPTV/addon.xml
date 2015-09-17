@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <addon id="plugin.video.Wolf-IPTV" name="[COLOR red]Wolf-IPTV[/COLOR] 3.0" version="3.0" provider-name="Derian Black">
+=======
+<addon id="plugin.video.Wolf-IPTV" name="Wolf-IPTV" version="2.1" provider-name="Derian Black">
+>>>>>>> parent of 7c867c3... Updates
 =======
 <addon id="plugin.video.Wolf-IPTV" name="Wolf-IPTV" version="2.1" provider-name="Derian Black">
 >>>>>>> parent of 7c867c3... Updates
@@ -8,6 +12,7 @@
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <import addon="script.module.beautifulsoup4"/>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
@@ -18,6 +23,8 @@
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson"/>    
 =======
+=======
+>>>>>>> parent of 7c867c3... Updates
     <import addon="script.module.beautifulsoup4" />
     <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.requests" />
@@ -26,6 +33,9 @@
     <import addon="plugin.video.youtube" />
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" />    
+<<<<<<< HEAD
+>>>>>>> parent of 7c867c3... Updates
+=======
 >>>>>>> parent of 7c867c3... Updates
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
@@ -33,10 +43,15 @@
   </extension>
   <extension point="xbmc.addon.metadata">
 <<<<<<< HEAD
+<<<<<<< HEAD
    <summary>[COLOR red]Wolf[/COLOR][COLOR blue]IPTV[/COLOR],  basado en LivetreamsPro by Shani</summary>
     <description lang="en">[COLOR red]Wolf[/COLOR][COLOR blue]IPTV[/COLOR], junto a [COLOR blue]STALLION[/COLOR]-[COLOR red]TV[/COLOR]
 	- llevando entretenimiento a tu hogar, variedad de canales y peliculas en todo genero
 	- VISITA NUESTRA PAGINA https://www.facebook.com/groups/wolfiptv/</description>
+=======
+    <summary>[COLOR red]Wolf[/COLOR][COLOR blue]IPTV[/COLOR]basado en LivetreamsPro by Shani  </summary>
+    <description lang="en">[COLOR cyan][B]Wolf-IPTV, llevando entretenimiento a tu hogar[/B][/COLOR]</description>
+>>>>>>> parent of 7c867c3... Updates
 =======
     <summary>[COLOR red]Wolf[/COLOR][COLOR blue]IPTV[/COLOR]basado en LivetreamsPro by Shani  </summary>
     <description lang="en">[COLOR cyan][B]Wolf-IPTV, llevando entretenimiento a tu hogar[/B][/COLOR]</description>
