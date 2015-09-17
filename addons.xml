@@ -1,8 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.program.Kali" name="Kali Wizard" version="1.0" provider-name="Kali">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">	Kali Wizard</summary>
+    <description lang="en">Easy Update Your Kodi Install</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.KodiFlix"
+       name="[COLOR green]KodiFlix[/COLOR] 3.1"
+	   version="3.1"
+       provider-name="KodiFlix">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>KodiFlix</summary>
+    <description lang="en">KodiFlix   [COLOR red]NUEVA GENERACION EN STREAMING[/COLOR]
+	 # En cooperacion con:[COLOR red]Killer[/COLOR], [COLOR gold]Wolf[/COLOR]  y  [COLOR green]Yulfiostv[/COLOR],
+	 # Les presentamos el proyecto KodiFlix, las mejor calidad en peliculas y series.
+	 # (Agradecemos a [COLOR cyan]Raúl[/COLOR], y [COLOR blue]Christian Deliz[/COLOR] por la colaboración)</description>
+    <disclaimer lang="es">El uso de este Add-on, es  bajo tu responsabilidad si las leyes de tu país restringuen su uso</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.Wolf-IPTV"
-       name="Wolf-IPTV"
-       version="2.2"
+       name="[COLOR red]Wolf-IPTV[/COLOR] 3.0"
+	   version="3.0"
        provider-name="Derian Black">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -23,14 +68,15 @@
   <extension point="xbmc.addon.metadata">
    <summary>[COLOR red]Wolf[/COLOR][COLOR blue]IPTV[/COLOR],  basado en LivetreamsPro by Shani  </summary>
     <description lang="en">[COLOR red]Wolf[/COLOR][COLOR blue]IPTV[/COLOR], junto a [COLOR blue]STALLION[/COLOR]-[COLOR red]TV[/COLOR]
-	* llevando entretenimiento a tu hogar, variedad de canales y peliculas en todo genero</description>
+	* llevando entretenimiento a tu hogar, variedad de canales y peliculas en todo genero
+	* VISITA NUESTRA PAGINA   https://www.facebook.com/groups/wolfiptv/</description>
     <platform>all</platform>
   </extension>
 </addon>
 
 <addon id="plugin.video.Yulfiostv"
-       name="[B][COLOR cornflowerblue]  YULFIOS[/COLOR][COLOR lime]TV[/COLOR]1.3[/B]"
-       version="1.3"
+       name="[B][COLOR cornflowerblue]  YULFIOS[/COLOR][COLOR lime]TV[/COLOR]1.3[/B]”
+       version=“1.3”
        provider-name="[COLOR cornflowerblue]YULFIOS[/COLOR][COLOR lime]TV[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -58,7 +104,7 @@ https://yulfiostv.wordpress.com </description>
   </extension>
 </addon>
 
-<addon id="repository.wolf-team" name="Wolf-Team official Repo" version="1.1" provider-name="WolfTeam">
+<addon id="repository.wolf-team" name="Wolf-Team official Repo" version="1.2" provider-name="WolfTeam">
 	<extension point="xbmc.addon.repository" name="Wolf-Team official Repo">
 		<info compressed="false">https://raw.github.com/EquipoWolf/wolfteam/master/addons.xml</info>
 		<checksum>https://raw.github.com/EquipoWolf/wolfteam/master/addons.xml.md5</checksum>
