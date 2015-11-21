@@ -1,0 +1,19 @@
+﻿<settings>
+  <category label="Yulfiostv General">
+    <setting type="action" label="Bienvenidos a[COLOR=dodgerblue][B]Yulfios tv[/COLOR][/B]V 3.0 Actualizacion :11-01-2015" option="close" action="RunPlugin(plugin://plugin.video.yulfiostv/?mode=1)" />
+	<setting type="action" label="Facegroup : [COLOR=blue][B]https://www.facebook.com/groups/yulfiostv[/COLOR][/B]" option="close" action="RunPlugin(plugin://plugin.video.yulfiostv/?mode=1)" />
+    <setting id="use_thumb" type="bool" label="Usar Thumbnails como Fanart" default="false" />
+    <setting id="add_playlist" type="bool" label="Agregar items con multiples enlaces como listas de reproduccion" default="true"/>
+    <setting id="ask_playlist_items" type="bool" label="Elegir origen de reproduccion" default="true" />
+    <setting id="debug" type="bool" label="Activar depuracion del add-on" default="false"/>
+    <setting id="1080p" label="Reproducir video 1080p  ON demand si esta disponible (no en live)" type="bool" default=""/>
+    <setting id="genesisorpulsar" type="enum" values="Genesis|Pulsar" label="Reproducir IMDBid con:" default="Genesis"/>
+    <setting id="donotshowbychannels" label="Ocultar Canales" type="bool" default="false" visible="false"/>
+	</category>
+
+	
+<category label="[COLOR yellow]Control Parental [/COLOR]">
+    <setting id="parentalblockedpin" label="Parental Block Pin" type="text"  option="hidden"  default="1234"/>
+    <setting id="parentalblocked" label="Is Parental Blocked Applied?" type="bool" default="true" enable="true"/>
+</category>
+</settings>
