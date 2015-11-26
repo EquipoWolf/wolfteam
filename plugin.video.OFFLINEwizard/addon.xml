@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.OFFLINEwizard" name="OFFLINEwizard" version="1.0.1" provider-name="OFFLINE">
+<addon id="plugin.video.OFFLINEwizard" name="OFFLINEwizard" version="1.0.1" provider-name="OFFLINE.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -9,7 +9,7 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">OFFLINE Wizard</summary>
     <description lang="en">Easy Install With KODI / XBMC Wizard / ##CREDIT TO LEE @ COMMUNITY BUILDS FOR WRITING THE FORCE CLOSE FUNCTION AND ANY OTHER DEVS WHO CREATED ANY MODULES USED##
-##Credit To Husham and Tech Timeruuu for tutorials and Wolf-Team for suport##</description>
+##Credit To Husham and Tech Timeruuu##</description>
     <platform>all</platform>
   </extension>
 </addon>
