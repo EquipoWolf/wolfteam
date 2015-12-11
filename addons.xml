@@ -77,7 +77,44 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.OFFLINEwizard" name="OFFLINEwizard" version="1.0.1" provider-name="OFFLINE.com">
+<addon id="plugin.video.LetMeIn"
+       name="[COLOR red]DeanCL[/COLOR]"
+       version="1.0.0"
+       provider-name="DeanCL">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+     <summary>[COLOR red]DeanCL[/COLOR], Basado "LiveStreamPro" Shani</summary>
+    <description>
+                         ******* Dejame Entrar ******
+                         * VISITA NUESTRO GRUPO
+					https://www.facebook.com/groups/1485564758414855/
+                         * Youtube
+                   https://www.youtube.com/deancl
+
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.OFFLINEwizard"
+   name="OFFLINEwizard"
+   version="2.0.1"
+   provider-name="OFFLINE">
+
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -87,7 +124,7 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">OFFLINE Wizard</summary>
     <description lang="en">Easy Install With KODI / XBMC Wizard / ##CREDIT TO LEE @ COMMUNITY BUILDS FOR WRITING THE FORCE CLOSE FUNCTION AND ANY OTHER DEVS WHO CREATED ANY MODULES USED##
-##Credit To Husham and Tech Timeruuu##</description>
+##Credit To Husham and Tech Timeruuu for tutorials and Wolf-Team for suport##</description>
     <platform>all</platform>
   </extension>
 </addon>
