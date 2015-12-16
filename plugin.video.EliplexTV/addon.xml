@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.EliplexTV"
        name="[COLOR red]ELIPLEX TV [/COLOR]"
-       version="1.0.3"
+       version="1.0.5"
        provider-name="Eliesel G.S">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -19,12 +19,12 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>[COLOR red]ELIPLEX TV [/COLOR]</summary>
+    <summary>[COLOR red]ELIPLEX TV [/COLOR], Basado "LiveStreamPro" Shani</summary>
     <description>
-  Entretenimiento al extremo #MI MUNDO ES TU MUNDO[COLOR green]
-           * VISITA NUESTRA PAGINA   
-	https://eliplextv.wordpress.com/
-    https://www.facebook.com/eliplextv/ [/COLOR]
+                         #########MI MUNDO ES TU MUNDO#########[COLOR green]
+                         * VISITA NUESTRA PAGINA   
+                     https://eliplextv.wordpress.com/
+                   https://www.facebook.com/eliplextv/ [/COLOR]
         
     </description>
     <platform>all</platform>

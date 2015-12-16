@@ -2,27 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33250870-78b6-4da5-bef6-ec04e828e360" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.OFFLINEwizard/changelog-1.0.1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.OFFLINEwizard/plugin.video.OFFLINEwizard-1.0.1.zip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.EliplexTV/fanart.jpg" afterPath="$PROJECT_DIR$/plugin.video.EliplexTV/fanart.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/fanart.jpg" afterPath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/fanart.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Yulfiostv/fanart.jpg" afterPath="$PROJECT_DIR$/plugin.video.Yulfiostv/fanart.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.OFFLINEwizard/icon.png" afterPath="$PROJECT_DIR$/plugin.video.OFFLINEwizard/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/icon.png" afterPath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Yulfiostv/icon.png" afterPath="$PROJECT_DIR$/plugin.video.Yulfiostv/icon.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.EliplexTV/changelog-1.0.3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.EliplexTV/plugin.video.EliplexTV-1.0.3.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.LetMeIn/changelog-1.0.0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.LetMeIn/plugin.video.LetMeIn-1.0.0.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.program.Kali/icon.png" afterPath="$PROJECT_DIR$/plugin.program.Kali/icon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.program.Kali/plugin.program.Kali-1.0.zip" afterPath="$PROJECT_DIR$/plugin.program.Kali/plugin.program.Kali-1.0.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.EliplexTV/plugin.video.EliplexTV-1.0.3.zip" afterPath="$PROJECT_DIR$/plugin.video.EliplexTV/plugin.video.EliplexTV-1.0.3.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.EliplexTV/fanart.jpg" afterPath="$PROJECT_DIR$/plugin.video.EliplexTV/fanart.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.EliplexTV/icon.png" afterPath="$PROJECT_DIR$/plugin.video.EliplexTV/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.KodiFlix/fanart.jpg" afterPath="$PROJECT_DIR$/plugin.video.KodiFlix/fanart.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.KodiFlix/icon.png" afterPath="$PROJECT_DIR$/plugin.video.KodiFlix/icon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.KodiFlix/plugin.video.KodiFlix-3.1.zip" afterPath="$PROJECT_DIR$/plugin.video.KodiFlix/plugin.video.KodiFlix-3.1.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.LetMeIn/icon.png" afterPath="$PROJECT_DIR$/plugin.video.LetMeIn/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.OFFLINEwizard/plugin.video.OFFLINEwizard-2.0.1.zip" afterPath="$PROJECT_DIR$/plugin.video.OFFLINEwizard/plugin.video.OFFLINEwizard-2.0.1.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Stallion-IPTV/fanart.jpg" afterPath="$PROJECT_DIR$/plugin.video.Stallion-IPTV/fanart.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Stallion-IPTV/icon.png" afterPath="$PROJECT_DIR$/plugin.video.Stallion-IPTV/icon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Stallion-IPTV/plugin.video.Stallion-IPTV-2.2.zip" afterPath="$PROJECT_DIR$/plugin.video.Stallion-IPTV/plugin.video.Stallion-IPTV-2.2.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/fanart.jpg" afterPath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/fanart.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/icon.png" afterPath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/icon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/plugin.video.Wolf-Iptv-Ultimate-4.0.zip" afterPath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/plugin.video.Wolf-Iptv-Ultimate-4.0.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Yulfiostv/fanart.jpg" afterPath="$PROJECT_DIR$/plugin.video.Yulfiostv/fanart.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Yulfiostv/icon.png" afterPath="$PROJECT_DIR$/plugin.video.Yulfiostv/icon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Yulfiostv/plugin.video.Yulfiostv-3.0.zip" afterPath="$PROJECT_DIR$/plugin.video.Yulfiostv/plugin.video.Yulfiostv-3.0.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository.wolf-team/fanart.jpg" afterPath="$PROJECT_DIR$/repository.wolf-team/fanart.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository.wolf-team/icon.png" afterPath="$PROJECT_DIR$/repository.wolf-team/icon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository.wolf-team/repository.wolf-team-2.0.zip" afterPath="$PROJECT_DIR$/repository.wolf-team/repository.wolf-team-2.0.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.EliplexTV/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.EliplexTV/addon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.OFFLINEwizard/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.OFFLINEwizard/addon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/addon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Yulfiostv/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.Yulfiostv/addon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml.md5" afterPath="$PROJECT_DIR$/addons.xml.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/wolfteam.iml" afterPath="$PROJECT_DIR$/.idea/wolfteam.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml" afterPath="$PROJECT_DIR$/addons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml.md5" afterPath="$PROJECT_DIR$/addons.xml.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.program.Kali/addon.xml" afterPath="$PROJECT_DIR$/plugin.program.Kali/addon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.program.Kali/changelog-1.0.txt" afterPath="$PROJECT_DIR$/plugin.program.Kali/changelog-1.0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.EliplexTV/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.EliplexTV/addon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.KodiFlix/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.KodiFlix/addon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.LetMeIn/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.LetMeIn/addon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Stallion-IPTV/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.Stallion-IPTV/addon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/addon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/changelog-4.0.txt" afterPath="$PROJECT_DIR$/plugin.video.Wolf-Iptv-Ultimate/changelog-4.0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Yulfiostv/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.Yulfiostv/addon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.Yulfiostv/changelog-3.0.txt" afterPath="$PROJECT_DIR$/plugin.video.Yulfiostv/changelog-3.0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository.wolf-team/addon.xml" afterPath="$PROJECT_DIR$/repository.wolf-team/addon.xml" />
     </list>
     <ignored path="wolfteam.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,11 +62,11 @@
     <favorites_list name="wolfteam" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="repo_maker.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repo_maker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.033333335">
               <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
@@ -67,9 +87,6 @@
       </list>
     </option>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
     <option name="y" value="23" />
@@ -83,7 +100,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -97,8 +114,12 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -119,12 +140,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/febrl-0.4.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -296,24 +315,24 @@
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32551318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2460815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32485875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -332,6 +351,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/repo_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/repo_maker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -370,17 +397,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addons.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repo_maker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.033333335">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
